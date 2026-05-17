@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cl4ssof26.aternos.me:55696",
+    "ip": "cl4ssof26.aternos.me",
     "port": 55696,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im the real pdiddy",
+        "i love children just kidding",
+        "get me out of prison"
       ]
     },
     "chat-log": true,
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
