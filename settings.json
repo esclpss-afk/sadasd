@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ThherealPdiddy",
+    "username": "TherealPdiddy",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "cl4ssof26.aternos.me",
     "port": 55696,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 2,
     "max-reconnect-delay": 120000
   },
   "movement": {
@@ -73,8 +73,8 @@
     "place-night": true
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1505700431945535600/4IObqbUXyt9bvasfzBajP0Z6B0h6hwxCE2mNOErW3nCrZUk0UH8fmuDD3D8v0Vyyo-du",
     "events": {
       "connect": true,
       "disconnect": true,
